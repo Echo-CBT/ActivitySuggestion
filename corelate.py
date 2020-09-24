@@ -9,8 +9,7 @@ dummy_data = json.dumps({
         [4, 0, 2, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0],
         [4, 0, 2, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
     ]
-}
-)
+})
 
 
 def find_corelations(json_data):
