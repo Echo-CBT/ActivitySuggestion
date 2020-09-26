@@ -36,9 +36,9 @@ Please check the `Internal Server Routes / Activity Suggestion Correlation Compu
 
 ## Repo Layout
 <p>
-This repo mostly contains the idea behind the features of the app and how the whole platform interacts with different services
+This repo holds the correlation model used to determine the effective activities that the user should focus on according to the data collected
 </p>
-This complete list of Echo-CBT repos are:
+The complete list of Echo-CBT repos are:
 
 - [Echo-CBT](https://github.com/Echo-CBT/Echo-CBT): Introduction and Understanding the whole project along with details about feature and system architecture.
 - [Echo-CBT-App](https://github.com/Echo-CBT/Echo-CBT-App): Flask app
